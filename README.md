@@ -40,10 +40,19 @@ O formulário de contato é pré-preenchido com o veículo de interesse do visit
 
 No rodapé do site, os visitantes encontrarão links para as redes sociais da Max Motors.
 
+
+## Tecnologias Utilizadas na Construção
+
+1. HTML
+2. CSS
+3. JAVASCRIPT
+4. JQUERY
+
+
 ## Contribuição
 
-#
+# 
 
 ## Licença
 
-#
+# 
